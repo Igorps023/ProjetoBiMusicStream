@@ -1,0 +1,4 @@
+﻿column;desc
+track_id;unique_id_track
+user_id;unique_id_user
+playcount;number of times played

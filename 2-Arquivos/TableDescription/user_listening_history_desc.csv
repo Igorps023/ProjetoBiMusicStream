@@ -1,0 +1,4 @@
+﻿column;desc
+track_id;unique_value,
+user_id;unique_value,
+playcount;register_play
