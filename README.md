@@ -15,7 +15,7 @@
 ### Principais Pontos do Dashboard:
 - Conexão realizada via Athena
 - Dados históricos de streaming para o ano de 2020
-###Ideia principal:
+### Ideia principal:
 - O projeto e dashboard foi desenvolvido partindo do pressuposto que uma gravadora/agência estava interessada em compreender quais são os principais artistas e gêneros consumidos por uma parcela de usuários de streaming.
 - Com isso, é possível analisar quais artistas podem ser selecionados para festivais, eventos e também para criação de setlists (com maior assertividade).
 - A partir de informações dos álbuns (ficha técnica), é possível mapear, os responsáveis pela produção, gravação e masterização.
